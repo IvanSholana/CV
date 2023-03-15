@@ -1,12 +1,19 @@
 body{
     background-color: lightblue;
     color: white;
+}
+.title1,.title2{
     text-shadow: 1px 5px 5px black;
 }
-
 .title1{
     text-align: center;
 }
 .title2{
     text-align: center;
+}
+
+.intro{
+    width: 500px;
+    text-align: center;
+    margin: auto;
 }
